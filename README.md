@@ -1,12 +1,26 @@
-#ETSII ULL Grado de Informatica 
-#Práctica:
 
-#Comma Separated Values
+## Práctica 7: localStorage, jquery, underscore, express, sass, heroku
 
-For more information look at:
+### En esta práctica se trabajará lo siguiente:
+* Use SASS para generar el CSS
+* Los templates deben hacerse usando Underscore y el truco del elemento script en el HTML
+* Se debe usar locaStorage para almacenar las últimas entradas
+* Añada pruebas usando Mocha y Chai
+* Use Karma para la ejecución de las tareas
+* Use Gulp para la gestión de las tareas
+* Haga un análisis de cubrimiento usando Blanket
+* Despliegue las pruebas en Travis
+* Despliegue la aplicación en Heroku usando Express.JS
 
-* La sección *Práctica: Comma Separated Values. CSV* de los [apuntes](http://crguezl.github.io/pl-html/node11.html)
-* La [descripción de la práctica](https://casianorodriguezleon.gitbooks.io/pl1516/content/practicas/csv.html)
-* See it working at [CSV en GitHub Pages](http://crguezl.github.io/csv/)
-* See also [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) at Wikipedia.
 
+### Enlaces
+
+* [Página web de la práctica](http://ull-esit-gradoii-pl.github.io/karma-y-travis-estefania_morales/)
+
+* [Página web donde residen todas las prácticas](http://alu0100698688.github.io/web/)
+
+* [Campus de la asignatura](https://campusvirtual.ull.es/1516/course/view.php?id=178)
+
+* [Descripción de la práctica en el campus](https://campusvirtual.ull.es/1516/mod/page/view.php?id=184132)
+
+* [Enlace a las pruebas](http://ull-esit-gradoii-pl.github.io/mocha-y-chai-estefania_morales/tests/index.html)
