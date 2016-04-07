@@ -31,10 +31,12 @@
     "phantomjs-prebuilt": "^2.1.6"
   },
   "dependencies": {
-    "blanket": "^1.2.2",
-    "chai": "^3.5.0",
+    "ejs": "^2.4.1",
+    "jquery": "^2.2.2",
+    "requirejs": "^2.2.0",
     "express": "^4.13.4",
-    "mocha": "^2.4.5",
+    "express-ejs-layouts": "^1.1.0",
+    "underscore": "^1.8.3",
     "request": "^2.69.0"
   },
   "scripts": {
