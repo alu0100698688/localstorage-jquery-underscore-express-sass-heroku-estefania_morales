@@ -1,6 +1,9 @@
 
 ## Práctica 7: localStorage, jquery, underscore, express, sass, heroku
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/alu0100698688/localstorage-jquery-underscore-express-sass-heroku-estefania_morales.svg?branch=master)](https://travis-ci.org/alu0100698688/localstorage-jquery-underscore-express-sass-heroku-estefania_morales)
+=======
+>>>>>>> 5cbbdc837163c1a22bead3aefafe6eb5f07e710f
 
 ### En esta práctica se trabajará lo siguiente:
 * Use SASS para generar el CSS
